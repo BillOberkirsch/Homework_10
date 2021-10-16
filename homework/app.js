@@ -1,4 +1,3 @@
-
 //this section would be my using statements
 const inquirer = require("inquirer");
 const fs = require("fs");
